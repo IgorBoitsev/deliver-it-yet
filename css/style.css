@@ -119,17 +119,17 @@
   line-height: 23px;
 }
 .slide-summer {
-  background: url('../img/slide-2.png');
+  background: url('./img/slide-2.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .slide-autumn {
-  background: url('../img/slide-1.png');
+  background: url('./img/slide-1.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .vita-week {
-  background: url('../img/slide-3.png');
+  background: url('./img/slide-3.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -215,11 +215,11 @@
   padding: 13px 52px;
 }
 .promo-sweet {
-  background: url('../img/promo-sweet.png');
+  background: url('./img/promo-sweet.png');
   margin-right: 54px;
 }
 .promo-minimum {
-  background: url('../img/promo-minimum.png');
+  background: url('./img/promo-minimum.png');
 }
 
 /* --- DELIVERY --- */
